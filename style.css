@@ -1,0 +1,89 @@
+body{
+  color: aquamarine;
+  width: 750px;
+  margin:0 auto;
+  background-image:url(img/Component\ 1.png) ;
+  background-size: 100%;
+}
+.text{
+font-size: 40px;
+text-align: center;
+}
+.text1{
+    color: blue;
+}
+.text2{
+    color: blueviolet;
+}
+.text3{
+    color: brown;
+}
+.game1{
+width: 100%;
+margin-bottom:23px;
+}
+.game2{
+    width: 100%;
+    margin-bottom:23px;
+}
+.game3{
+    width: 100%;
+    margin-bottom:23px;
+}
+.game4{
+    width: 100%;
+    margin-bottom:23px; 
+}
+.change{
+    display: block;
+    margin: 0 auto; 
+    height: 55px;
+    width: 396px;
+    font-family: Romanesco;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: aquamarine;
+}
+.div{
+color: aliceblue;   
+background-image:url(img/0b0owDFqekJszSOQfD4vvTjy.webp);
+padding-bottom: 700px;
+padding-top: 50px;
+width: 1000px;
+margin: 0 auto;
+text-align: center;
+}
+.h,.rp{
+text-align: center;
+color: rgb(127, 255, 159);
+}
+
+.main{
+background-image: url(img/y4liLwBLXmhWHIvakDIMG1T1.webp);
+padding-bottom: 700px;
+padding-top: 50px;
+}
+.bodu{
+    margin-right: 100px;
+    margin-left: 165px;
+
+}
+.maen{
+background-image: url(img/mount__blade_ii_bannerlord-5457154.jpeg);
+background-size: 100%;
+padding-bottom:700px ;
+padding-top: 50px;
+}
+.hh,.ppp{
+text-align: center;
+color: blue;
+}
+.maaq{
+background-image:url(img/E2vZwVaDJbhLZpJo7Q10IyYo.webp) ;
+background-size: 100%;
+padding-bottom: 700px;
+padding-top: 50px;
+}
